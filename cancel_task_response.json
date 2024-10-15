@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/KaFruE/rmf_api_msgs/refs/heads/main/cancel_task_response.json",
+  "title": "Task Cancel Response",
+  "description": "Response to a request to cancel a task",
+  "$ref": "simple_response.json"
+}
