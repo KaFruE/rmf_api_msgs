@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/open-rmf/rmf_api_msgs/main/rmf_api_msgs/schemas/robot_state.json",
+  "$id": "https://raw.githubusercontent.com/KaFruE/rmf_api_msgs/refs/heads/main/robot_state.json",
   "title": "Robot State",
   "description": "The state of a robot",
   "type": "object",
